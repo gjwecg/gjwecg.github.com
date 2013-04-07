@@ -12,8 +12,8 @@ ultraedit现在也支持linux系统了，免费使用只有30天。<br/>
 免费使用方法：<br/>
 
 <code>
-rm ~/.idm/uex/.idm/alt.conf<br/>
-mkdir ~/.idm/uex/.idm/alt.conf<br/>
+<p># rm ~/.idm/uex/.idm/alt.conf</p>
+<p># mkdir ~/.idm/uex/.idm/alt.conf</p>
 </code>
 
 缺点：<br/>
@@ -24,3 +24,4 @@ http://www.ultraedit.com/downloads/uex.html<br/>
 
 ***
 ***
+
