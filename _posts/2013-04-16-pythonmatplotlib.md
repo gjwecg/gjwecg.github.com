@@ -12,7 +12,7 @@ tags: [python,matplotlib]
 ###一、安装模块###
 <pre><code>
 $ sudo apt-get install python_numpy python_matplotlib
-</pre></code>
+</code></pre>
 
 ###二、语法###
 <pre><code>
@@ -53,7 +53,7 @@ plt.grid(True)                      # 显示网格
 plt.legend()                        # 显示图例
 plt.show()
 
-</pre></code>
+</code></pre>
 
 ***
 ***
